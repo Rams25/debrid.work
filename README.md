@@ -12,13 +12,12 @@ Debrid.work est une plateforme gratuite qui permet de débrider des fichiers hé
 - **Débridage de liens** : Téléchargez vos fichiers rapidement à partir de multiples hébergeurs populaires.  
 - **Utilisation gratuite** : Aucun frais caché, tout est gratuit.  
 - **Support multi-plateformes** : Fonctionne sur PC, mobile et tablette.  
-- **Sécurisé** : Les fichiers sont débridés directement depuis nos serveurs pour garantir votre anonymat.  
-- **Bot Telegram** *(disponible)* : Une expérience de débridage fluide directement depuis votre messagerie préférée : [Aller sur telegram](https://t.me/@debrid_work_bot)
+- **Sécurisé** : Les fichiers sont débridés directement depuis nos serveurs pour garantir votre anonymat.
 
 ---
 
 ## 📸 Aperçu
-<img src="screenshot.png" alt="Aperçu de Debrid.work" style="max-width: 100%;">
+<img src="debridwork.png" alt="Aperçu de Debrid.work" style="max-width: 100%;">
 
 ---
 
